@@ -8,13 +8,13 @@ circumstances, unpack a new DF on top of an older one.
 
 Use these to control the automatic saving behavior in the dwarf fortress mode of game.  AUTOSAVE can be set to NONE, SEASONAL or YEARLY.  This updates your save at these intervals, so that some of your progress will be saved in case of system instability.  You can set AUTOBACKUP to YES if you want the updated save to be copied to another folder so that you'll have several copies of your world at different times.  Set AUTOSAVE_PAUSE to YES if you want the game to pause every time it autosaves.
 
-[AUTOSAVE:NONE]
-[AUTOBACKUP:NO]
-[AUTOSAVE_PAUSE:NO]
+[AUTOSAVE:SEASONAL]
+[AUTOBACKUP:YES]
+[AUTOSAVE_PAUSE:YES]
 
 Set this to YES if you want it to save the game when you start a new fortress.  If AUTOBACKUP above is set to YES, it will also create a copy of this new save.
 
-[INITIAL_SAVE:NO]
+[INITIAL_SAVE:YES]
 
 Set this to NO to make Dwarf Fortress remain in the saved pause state when you load an active game.
 
@@ -51,7 +51,7 @@ Change this to YES to output the reasons for world map rejection into a file.
 
 Change these numbers to make the embark rectangle start at a different size.  The format is (EMBARK_RECTANGLE:<width>:<height>).  Numbers may run from 2 to 16.  The map size warning message will go by these numbers.
 
-[EMBARK_RECTANGLE:4:4]
+[EMBARK_RECTANGLE:3:3]
 
 Change these numbers to set the default weights for traffic designations.  If you make the last numbers too large, pathfinding might lag.
 The format is (PATH_COST:<high>:<normal>:<low>:<restricted>).
@@ -81,7 +81,7 @@ Use these to set the color of wounded body parts.  The format is <foreground col
 
 This controls the display of areas that are far below outside.  The format is SKY:<character>:<foreground color>:<background color>:<brightness>.  The <character> can be either an ASCII tile number or a character in quotes, like '#'.
 
-[SKY:178:3:0:0]
+[SKY:176:1:0:0]
 
 As above, for inside/subterranean areas.
 
@@ -246,7 +246,7 @@ You can set the maximum population of your fortress here.  Keep in mind that you
 
 This allows you to control the number of babies+children in your fortress.  The first number is an absolute cap on the number of babies+children.  The second is a percentage of the current number of adults in your fortress (the default is the essentially meaningless 1000% here).  The lower number is used as the cap.  The cap only prevents further pregnancies, so migrant children, multiple births and existing pregnancies from old saves can still push you over the cap.  Setting either number to zero will disallow pregnancies in the fortress.
 
-[BABY_CHILD_CAP:100:1000]
+[BABY_CHILD_CAP:20:20]
 
 You can set the maximum number of visitors to your fort here.  This does not include merchants, diplomats, animals or invaders, but only those either dropping by for a temporary visit to a tavern, library or temple, or those seeking permanent employment.  Once you accept a petition from a visitor to stay at your fort, they no longer count against the cap, even if they never become a full citizen.  Certain traveling groups (e.g. quester parties) may also push slightly over the cap.
 
@@ -303,9 +303,9 @@ This controls the up/down views in adventure mode.  The first parameter can be O
 You can use these to say how nicknames are displayed in each mode
 Options are REPLACE_FIRST, CENTRALIZE (between first and last), REPLACE_ALL
 
-[NICKNAME_DWARF:REPLACE_FIRST]
-[NICKNAME_ADVENTURE:REPLACE_FIRST]
-[NICKNAME_LEGENDS:REPLACE_FIRST]
+[NICKNAME_DWARF:REPLACE_ALL]
+[NICKNAME_ADVENTURE:REPLACE_ALL]
+[NICKNAME_LEGENDS:REPLACE_ALL]
 
 Set this number to scale how often grazing animals need to eat.  Larger numbers mean less food is necessary.  Metabolism is always set according to the 3/4ths power of size.
 
