@@ -27,7 +27,7 @@ If set below 256x256 it specifies the grid size instead, with a minimum of 80x25
 
 [WINDOWEDX:80]
 [WINDOWEDY:45]
-[FONT:yayo_20x20_260709.bmp]
+[FONT:yayo_20x20_260712.bmp]
 
 You may disable window resizing if you wish.
 [RESIZABLE:NO]
