@@ -42,27 +42,27 @@ Z轴快速10
 /*
 快速5
 */
-!Home:: {
+!-:: {
     loop 5 {
-        Send("{Home}")
+        Send("{-}")
     }
 }
-!End:: {
+!=:: {
     loop 5 {
-        Send("{End}")
+        Send("{=}")
     }
 }
 /*
 快速10
 */
-+Home:: {
++-:: {
     loop 10 {
-        Send("{Home}")
+        Send("{-}")
     }
 }
-+End:: {
++=:: {
     loop 10 {
-        Send("{End}")
+        Send("{=}")
     }
 }
 
