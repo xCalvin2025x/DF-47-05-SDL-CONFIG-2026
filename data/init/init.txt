@@ -27,7 +27,7 @@ If set below 256x256 it specifies the grid size instead, with a minimum of 80x25
 
 [WINDOWEDX:110]
 [WINDOWEDY:60]
-[FONT:azoth_acorn_16x16.png]
+[FONT:azoth_acorn_16x16_bearded.png]
 
 You may disable window resizing if you wish.
 [RESIZABLE:NO]
