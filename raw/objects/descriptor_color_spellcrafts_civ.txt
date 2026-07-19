@@ -1,0 +1,138 @@
+descriptor_color_spellcrafts_civ
+
+[OBJECT:DESCRIPTOR_COLOR]
+
+[COLOR:MASKSHAPE_BEETLE]
+	[NAME:shaped like a beetle's]
+	[WORD:BEETLE]
+	[RGB:153:184:20]
+
+[COLOR:MASKSHAPE_RHINO]
+	[NAME:shaped like a rhino's]
+	[WORD:BEETLE]
+	[RGB:153:184:20]
+
+[COLOR:MASKSHAPE_HORSE]
+	[NAME:shaped like a horse's]
+	[WORD:HORSE]
+	[RGB:153:184:20]
+
+[COLOR:MASKSHAPE_BABBOON]
+	[NAME:shaped like a babboon's]
+	[WORD:MONKEY]
+	[RGB:153:184:20]
+
+[COLOR:MASKSHAPE_VIPER]
+	[NAME:shaped like a viper's]
+	[WORD:SNAKE]
+	[RGB:153:184:20]
+
+[COLOR:MASKSHAPE_TOUCAN]
+	[NAME:shaped like a toucan's]
+	[WORD:BIRD]
+	[RGB:153:184:20]
+
+[COLOR:MASKSHAPE_TIGER]
+	[NAME:shaped like a tiger's]
+	[WORD:LION]
+	[RGB:153:184:20]
+
+[COLOR:MASKSHAPE_DRAGON]
+	[NAME:shaped like a dragon's]
+	[WORD:DRAGON]
+	[RGB:153:184:20]
+
+[COLOR:MASKSHAPE_ANTEATER]
+	[NAME:shaped like a anteater's]
+	[WORD:DEER]
+	[RGB:153:184:20]
+
+[COLOR:MASKSHAPE_OX]
+	[NAME:shaped like a ox's]
+	[WORD:OX]
+	[RGB:153:184:20]
+
+[COLOR:MASKSHAPE_DIAMOND]
+	[NAME:a diamond shape]
+	[WORD:BEETLE]
+	[RGB:153:184:20]
+
+[COLOR:MASKSHAPE_FLAT_OVAL]
+	[NAME:a flat oval shape]
+	[WORD:BEETLE]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_GOLD_ON_WHITE]
+	[NAME:white with golden tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_GOLD_ON_SILVER]
+	[NAME:silver with golden tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_GOLD_ON_BLACK]
+	[NAME:black with golden tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_GOLD_ON_RED]
+	[NAME:crimson with golden tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_GOLD_ON_PURPLE]
+	[NAME:purple with golden tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_GOLD_ON_BLUE]
+	[NAME:cobalt with golden tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_GOLD_ON_JADE]
+	[NAME:jade with golden tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_GOLD_ON_AQUA]
+	[NAME:aquamarine with golden tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_SILVER_ON_BLACK]
+	[NAME:black with silver tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_SILVER_ON_RED]
+	[NAME:crimson with silver tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_SILVER_ON_PURPLE]
+	[NAME:purple with silver tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_SILVER_ON_BLUE]
+	[NAME:cobalt with silver tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_SILVER_ON_JADE]
+	[NAME:jade with silver tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_SILVER_ON_AQUA]
+	[NAME:aquamarine with silver tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]
+
+[COLOR:TATTOO_SILVER_ON_GOLD]
+	[NAME:gold with silver tattoos]
+	[WORD:AMETHYST]
+	[RGB:153:184:20]

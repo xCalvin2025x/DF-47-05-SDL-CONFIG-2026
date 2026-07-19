@@ -1,0 +1,145 @@
+Version 5zF
+- Addition of some new night creatures
+- Fixed a crash related to witchlights
+- Added extra results to summoning - aether exchange reaction
+
+Version 5zA
+- removed some causes of worldgen crashes
+- added a couple new plant creatures
+- blight sphere now zombifies plant creatures
+
+Version 5.15
+- updated summoning creatures in conjuring circle to essence > summon-unit interaction
+- fixed some bugs causing worldgen crashes and errorlogs.
+- aether salts can be generated for free over time (a 1% chance of producing one each time the reaction is run)
+- Kineroch magic school almost finished. - available in "test magic" reaction in adventure mode.
+- First rendition of new racial and cultural magic distribution almost finished.
+
+Version 5.1-Beta
+- updated things to new df version
+- healers, summoners, necromancer use new effects.
+- fixed bug causing werebeasts to show up as tavern visitors and wreck your shit without warning
+- fixed naming convention issues
+- made most interactions between familiars, enchanting basins and people non-verbal so they aren't constantly outputting combat reports
+
+Version 5-alpha
+- New megabeasts; tree of death with venomous attacks, fear liath with terror-inducing and mind-flaying attacks.
+- New "civ set" folder containing additional races and civs that can be added to your game that work with this mod. in alpha state.
+- racial and cultural magics in alpha state - cant be summoned/accessed currently, implementation too buggy.
+- wizard race only available as wildlife - might join civs - too many issues with drowning logs with interations during play.
+- familiar creature added - meant to assist mages as a pet. interactions are alpha state, cause somewhat annoying combat log spam with friendly interactions.
+- Fixed lots of old and new bugs.
+
+Version 4.5
+- fixed bug with aether focus as reaction reagent - it is once again a tool item, people will carry them as a coin pouch (prevents dwarves from grabbing all your aether focusers to wear in fort mode)
+- New races and entities included - these will be moved to other options in later updates
+
+Version 4.15
+- Reworked spell essences as a fish; carnivores should no longer have trouble eating them.
+- lots of other bugfixes; whisperlights should now properly show up as vermin.
+
+Version 4.14
+- New Medisephos magic school
+- New Darkness secret
+- aether focuses and beast runes should show up in play now, as a clothing item
+- Many changes to wizard creature, cannot appear as curse now.
+- Bugs fixed, readme files updated, crashes avoided
+- Possibility for cheese?
+
+Version 4.13
+- Addition of polybestia magic school, which allows shapeshifting
+- Added reanimation spell to nightmare secret
+- fixed multiple bugs pointed out by gnome and hertggf. Thanks guys!
+
+Version 4.12
+- worked on bugs and tweaked variables
+- created Hyazith magic school
+- some new creatures, interactions and reactions that work with the holy altar and conjuring circle
+
+Version 4.10
+- fixed several major bugs reported by users in the forum thread. Thanks for the help everyone!
+- Beginning of the division of mundane magic into "schools" that can be learned separately.
+- other additions to creatures that will come into play later as schools and reactions develop
+- addition of more reactions to produce aether salt from other object classes. Some have a chance to produce more than one item. Living things and large animal components are better.
+- changed reactions to summon materials to require only aether salt as a reagent.
+- a lot of stuff I cant remember, oh well.
+
+version 4.09
+- Fixed major issues with spider queen. Sorry.
+
+version 4.08
+- wizard blood temporarily disabled, problems with transformation
+- addition of dangerous syndrome responses to attempts to learn
+- conjuring of materials from aether residue
+- fixes for some bugs, adventurers can make their own spellbooks.
+- addition of some simple magical plants
+- added spider queen megabeast - terrifying.
+
+version 4.07
+- added Thralldom, Deformity, and Fate secrets, moved biomancy to Nature instead of Beauty.
+- changes to wizards to make them less common in the wilderness, drinking their blood makes you a wizard
+- Fixes for reactions, misc. changes.
+
+version 4.06
+- edited biome locations of "wizard" creature; no longer omnipresent
+- Some small tweaks and fixes to various things.
+
+version 4.05
+- fixed issues with weresalamander
+- removed werecurse string from most interactions that had it
+- other stuff?
+
+version 4.04 update
+- added weresalamander
+- fixed incorrect strings in entity files - buildings should show up now.
+- included readme and more detailed list of spells
+
+version 4.03 update
+- added missing words to magic language files
+- changed file names and headers to hopefully prevent issues with Mac
+- addition of some new vampires, wereserpent, and various little tweaks
+- fixed alphabetical order for secrets file names (will have to delete the old ones if you're copy-pasting over previous versions' files, because they will not be replaced).
+  YES I KNOW MY ABC'S DONT JUDGE ME
+
+version 4.02 update
+- added thunder and lightning secrets
+- removed redundant neck body parts from humanoids
+- restored missing entity_default.txt to folder
+
+version 4.01 update
+- added FOOD sphere secret
+- added wereserpent
+- added luck deity curse
+- fixed issue with wizards teaching spells
+
+version 4.0 update:
+- updated to DF version 43.05
+- lots of changes to the structure of the mod, secrets from now on will be organized by spheres and meant to roughly fit that sphere.
+
+version 3.02 update:
+- More mistakes in the mod fixed. Should be less buggy!
+
+version 3.01 update:
+- fixed a handful of typos. Should not require a regen of worlds
+
+version 3.0 update:
+- Further work on summoners and illusionists
+- Working wizard to teach spells by oral lectures (spewing magic goop at anyone nearby)
+- Further work on non-secret magics.
+- Simple vampire and werewolf interactions
+- Updates necessary for 40.24
+- Inclusion of readme file
+
+version 2.01 update:
+- Fixed a few issues with druids and summoners, completed the last of the druid classes.
+
+version 2.0 update:
+- Complete overhaul of most of the mod.
+- added mundane (non-secret-based) magics players can learn in adventure or fort mode.
+
+version 1.2 update:
+- Simple fix for missing text files
+
+version 1 update:
+- Fixed a bug or two.
+- began work on next level of elemental mage (battlemage), currently a carbon-copy with fireball replaced with firejet and some restrictions removed.

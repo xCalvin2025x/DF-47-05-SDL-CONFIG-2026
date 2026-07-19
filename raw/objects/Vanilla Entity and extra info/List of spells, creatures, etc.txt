@@ -1,0 +1,151 @@
+What you need to learn magic;
+
+Fort mode:
+You can teach your dwarves magic in the magician's studio by providing them with a basic spellbook, made of any valid building material, and aether salts, produced from cut small gems and logs. Basic spellbooks can be purchased from your caravan, as they are tools, or made on-site. Advanced and masters spellbooks are used to teach basic spells more quickly and reliably and can be made in the studio from a basic spellbook, and aether residues produced in the process of trying to learn magic. An advanced spellbook will require one basic spellbook and five (5) aether residue and a masters spellbook will require fifteen (15) residue and an advanced spellbook.
+Dwarves can also learn magic from wizard creatures, which might show up as visitors, or being "blessed" by the gods if they desecrate a temple, making them a wizard. (but they could turn into a pig or werebeast or vampire instead...). Secrets can also be written down in books and slabs, and an adventurer could collect these and bring them to the fortress.
+
+Adventure mode:
+As an adventurer you have access to all the same avenues of learning as in fort mode. There are reactions available to learn magic and produce aether salts (from trees you cut down and gems you either buy, steal, or "find on the ground" with a reaction in the same interface), but you will have to find a spellbook on your own. Towers can hold slabs and books, but to build the tower the mages need a zombie workforce, and not all secrets include interactions to raise the dead. The slabs other mages learn from can be found in sites listed in legends mode, but it's still very difficult to actually locate these.
+You can also find wizards or people "blessed" as wizards for desecrating a temple. Stand around them and they will cast spells that create clouds of vapor, which if your character breathes them in will give you access to spells. This could take a while, however. You could also attack the wizard and drink their blood, making you a wizard and allowing you to teach yourself these spells, but starting a fight and benefitting from it of course implies not losing the fight.
+
+Magic Schools ("mundane" mortal magic):
+
+(currently implemented)
+Generic: A collection of simplified spells that would fit into one of the other schools
+Aetherial: Mysteries of magic itself, warping the very fabric of reality and summoning beings of pure magic
+Hyazith: the mastery of fire and ice
+Polybestia: the power to shapeshift into various creatures, and to transform your enemies to disrupt them
+Medisephos: Holy magic of healing and protection.
+
+(planned)
+Storms and Earth elements: lightning, wind, stone and stuff
+Dementia: "black" or "evil" magics to curse and torment foes
+Shamanism: ancient powers to bless or harm others
+Dwarves: mastery of the underground and aspects of dwarven life
+Elves: devotion to and reliance on nature and one's bodily needs
+Illusion: Affecting the senses of others and planting ideas in their heads.
+???
+
+Summoning and worship:
+Can sacrifice, gift or trade with the gods or otherworldly beings to summon useful items or magic powers
+Or die horribly, it depends...
+
+Important creatures:
+Spider Queen: An enormous spider with the torso of a human woman affixed to the top of its "head." Known to have powerful necromantic powers
+Monstrous Serpent: A giant serpent with the torso of a human where its head should be. Very powerful opponents.
+Wizard: a rare people with innate magic abilities, which they can teach to others. Their blood can be used to steal this power. Not to be confused with mortals devoted to magical studies.
+Werewolves, serpents and salamanders: Dangerous werebeasts, some natural and others cursed by the gods, their bite can inflict their curse
+Vampires: People cursed by the gods to seek the blood of their own kind, attributed various magical powers. Nosferatu are known to be entirely bestial, and their bite or blood may transform others into one...
+
+Secrets: various gods may gift mortals with immense powers, detailed on legendary slabs and passed down through teaching and literature.
+
+
+
+
+Spells by type
+
+* - as a secret
+% - as learned magic
+& - from creatures' interactions or materials
+
+Elemental combat magic (usually throwing stuff)
+- Fire
+*%&	- fireball
+*%&	- firejet
+	- dragonfire
+*%&	- molten rock/lava
+*	- transformation into fire demon
+*	- summoning fire elementals
+- Water/Ice
+*%&	- water spheres
+*%&	- ice spike
+*%&	- water web spray
+*%&	- bursting water pools
+*	- water elemental transformation
+*	- water elemental summoning
+- Earth/Stone
+*%&	- throwing stones
+*%&	- sandstorm/dust
+*%&	- stone-skin
+*	- earth elemental summoning
+- Wind/Air
+*%&	- airbursts
+*%&	- whirlwind web spray
+*	- wind elemental transformation
+*	- wind elemental summoning
+- Lightning + Thunder
+*%&	- lighning bolts
+*	- lightning pools
+*%&	- lightning web spray
+*%&	- thunder bolts
+*%&	- thunder cloud dust
+- Metals + Artificial materials
+*%&	- metal spikes
+*%&	- glass shards
+*%&	- oil pools
+*	- summon iron golem
+- Living material
+*%&	- wood thorns
+*%&	- stinging hairs (painful, blistering)
+*%&	- paralyzing spores
+*	- summoning badger men
+*	- plant flesh spell
+- Disease and Filth
+*%	- Filth
+*%	- plague-bearing phlem
+*	- blight of plants
+*	- blight of plants
+- Curses
+%	- curses of the attributes
+%	- curse of luck
+%	- curse of blindness
+%	- curse of utterances
+%	- curse of death
+- Magic (as an elemental force)
+%	- aether bursts
+%	- aether spike
+%	- aether pools
+
+
+Healing and Friendly effects
+- Healing
+*%&	- recuperation boost
+*%&	- disease resistance boost
+*%&	- reformation (via transformation)
+*%	- resurrection
+- Buffs/Bonuses
+*%&	- buffs to attributes
+*%&	- grant intelligence, speech
+*%&	- grant immunity to effects (pain, exhaustion, etc)
+*%&	- seeking life
+*%&	- improved night vision
+- Misc.
+*%	- create food and drink
+*%	- prevent hunger
+*	- "give birth" to "children"
+*%	- advantages after spending time in caverns (can't tell if bugged or not)
+
+Illusions
+*%&	- clean self/others
+*%&	- vanish
+*%&	- calm
+*%&	- demoralize
+*%&	- enbolden
+*%&	- enrage
+*%&	- induce sleep, dizziness, nausea
+*%&	- make socially adept
+
+Transformations
+*%&	- into various living creatures among reptiles, mammals, avians, invertebrates etc...
+
+Necromancy
+*%	- raising the dead as zombies
+*%	- raising the dead as weak resurrections
+
+Phsychological
+*	- cause nightmares
+*%&	- prevent/remove intelligence or speech
+*
+
+Killing night creatures
+*	- vampire hunter
