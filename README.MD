@@ -3,4 +3,3 @@
 
 ## 2026/7/20 添加模组
 ### [[47.05] Cavern grass backport mod ](https://www.bay12forums.com/smf/index.php?topic=183004.msg8566107#msg8566107)
-### [[47.05] Spellcrafts Mod - Basic Magic in Dwarf Fortress](https://www.bay12forums.com/smf/index.php?topic=116332)
